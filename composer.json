@@ -5,6 +5,7 @@
         "yiisoft/yii2": "*",
         "bower-asset/blockUI": "~2.7"
     },
+    
     "autoload": {
         "psr-4": {
             "seiweb\\ext\\": ""
